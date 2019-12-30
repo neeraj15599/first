@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "afCkqjjKdKfgE2DUl012WN",
+    "name" : "ZSD3047",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Import Data from SAP to Salesforce",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
